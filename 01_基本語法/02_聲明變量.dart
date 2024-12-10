@@ -40,6 +40,7 @@ main(List<String> args) {
   const p3 = const Person("lilei");
   print("p1, p2:${identical(p1, p2)}");
   print("p1, p2:${identical(p1, p3)}");
+  print('${name},${age},${height},${address}');
 }
 class Person {
   final String name;

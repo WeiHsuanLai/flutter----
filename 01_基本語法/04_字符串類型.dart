@@ -19,4 +19,5 @@ var meesage = "$name,$age";
 var meesage2 = "$name,${name.runtimeType}  ";
 print("meesage:"+meesage);
 print("meesage2:"+meesage2);
+print("${str1},${str2},${str3},${height}");
 }

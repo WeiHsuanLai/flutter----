@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 void main(List<String> args) {
   SuperMan superMan = SuperMan();
   superMan.eating();
