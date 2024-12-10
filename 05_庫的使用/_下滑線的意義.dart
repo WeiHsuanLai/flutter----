@@ -36,7 +36,7 @@ void anonymousFunctionExample() {
 
 // 4. 避免未使用的變數警告
 void unusedVariableExample() {
-  var _unusedVariable = 42; // 不會觸發未使用的警告
+  // var _unusedVariable = 42; // 不會觸發未使用的警告
   print("This function uses a variable but doesn't do much.");
 }
 
